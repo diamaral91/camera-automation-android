@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd3ad92f-17ae-4dbc-bb6e-26bcf0ba28bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/BarCodePO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/support/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DeviceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BarCodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
